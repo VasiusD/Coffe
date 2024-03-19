@@ -27,22 +27,43 @@
    <widget class="QPushButton" name="b">
     <property name="geometry">
      <rect>
-      <x>250</x>
+      <x>70</x>
       <y>20</y>
-      <width>281</width>
+      <width>331</width>
       <height>91</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <family>Arial</family>
-      <pointsize>26</pointsize>
+      <pointsize>18</pointsize>
       <weight>75</weight>
       <bold>true</bold>
      </font>
     </property>
     <property name="text">
-     <string>Сорта кофе</string>
+     <string>Показать сорта кофе</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b_open">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>20</y>
+      <width>331</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>18</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Добавить/редактировать</string>
     </property>
    </widget>
   </widget>
